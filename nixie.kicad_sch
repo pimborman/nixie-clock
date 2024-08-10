@@ -9716,10 +9716,10 @@
 	)
 	(text "Power Section\nInput 12V\nOutput 5V and 190V"
 		(exclude_from_sim no)
-		(at 97.79 24.13 0)
+		(at 83.312 25.146 0)
 		(effects
 			(font
-				(size 2 2)
+				(size 3 3)
 			)
 			(justify left)
 		)
@@ -9737,10 +9737,10 @@
 	)
 	(text "Nixie tubes and \ndriver Section"
 		(exclude_from_sim no)
-		(at 135.128 112.522 0)
+		(at 124.714 113.284 0)
 		(effects
 			(font
-				(size 2 2)
+				(size 3 3)
 			)
 			(justify left)
 		)
@@ -16189,6 +16189,44 @@
 				(path "/4d215aa3-d175-40c4-bbb4-87e7c6a030b1"
 					(reference "U5")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 142.24 72.39)
+		(size 12.7 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e9b2c7e8-8fee-4f00-9fb9-8c32147df66b")
+		(property "Sheetname" "controller"
+			(at 142.24 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "controller.kicad_sch"
+			(at 142.24 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nixie"
+				(path "/4d215aa3-d175-40c4-bbb4-87e7c6a030b1"
+					(page "2")
 				)
 			)
 		)
