@@ -39,3 +39,30 @@ jobs:
       with:
         name: automatic_output
         path: output
+
+# This step is to upload the results to the gh-pages branche and publish the page
+  deploy:
+    runs-on: ubuntu-latest
+    needs: cicd
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Retrieve results
+      uses: actions/download-artifact@v4
+      with:
+        name: automatic_output
+        path: output
+
+    - name: Disable Jekyll
+      # Jekyll will filter the KiRi folders
+      run: |
+        touch output/.nojekyll
+
+    - name: Deploy navigate results
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        branch: gh-pages
+        folder: output
+        #repository-name: INTI-CMNB/kibot_variants_arduprog_site
+        #token: ${{ secrets.TOKEN }}
