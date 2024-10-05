@@ -693,7 +693,7 @@
 			(pintype "power_in")
 			(uuid "4cb502e7-fd2e-4834-8487-77646e314023")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm.wrl"
+		(model "${KIPRJMOD}/packages3D/DIP-16_W7.62mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -961,7 +961,7 @@
 			(pintype "passive")
 			(uuid "bdaa93d2-7e2b-4bd1-af99-5655399c616e")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_3386P_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/Potentiometer_Bourns_3386P_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1225,7 +1225,7 @@
 			(pintype "passive")
 			(uuid "83be7037-bf07-46db-b175-0de187d809c4")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1573,7 +1573,7 @@
 			(pintype "passive")
 			(uuid "1b43efd4-29b4-4fcd-940c-622e413c3240")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-15_P10.16mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/D_DO-15_P10.16mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2050,7 +2050,7 @@
 			(pintype "passive")
 			(uuid "a38b1675-e885-4b2c-9ef6-bf3eadace4c3")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2527,7 +2527,7 @@
 			(pintype "passive")
 			(uuid "0f88b37c-b003-49fe-8fdc-02bcd52f39e7")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2791,7 +2791,7 @@
 			(pintype "passive")
 			(uuid "d5a2e7d4-3b3a-4d63-9034-4c9030a6544a")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2931,7 +2931,7 @@
 			(pintype "passive")
 			(uuid "fd2a630d-ce1c-419d-b866-55b772bf9853")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D8.7mm_P5.00mm_Fastron_07HCP.wrl"
+		(model "${KIPRJMOD}/packages3D/L_Radial_D8.7mm_P5.00mm_Fastron_07HCP.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4459,7 +4459,7 @@
 			(pintype "passive")
 			(uuid "e9f9c169-e349-409b-973a-ce0b6e31d352")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.wrl"
+		(model "${KIPRJMOD}/packages3D/CP_Radial_D6.3mm_P2.50mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4946,7 +4946,7 @@
 			(pintype "passive")
 			(uuid "29da94f5-80c9-4ec0-a1b9-b92982aa0676")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_103_1x20mm.wrl"
+		(model "${KIPRJMOD}/packages3D/BatteryHolder_Keystone_103_1x20mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5190,7 +5190,7 @@
 			(pintype "passive")
 			(uuid "6508f360-15dc-4dd5-8fe6-bd044c54dbee")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D3.8mm_W2.6mm_P2.50mm.wrl"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D3.8mm_W2.6mm_P2.50mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5454,7 +5454,7 @@
 			(pintype "passive")
 			(uuid "0404b920-7ecd-4519-974e-352be9ee1eec")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6206,7 +6206,7 @@
 			(pintype "passive")
 			(uuid "c10b9c6b-88dc-4e2e-9c91-1b1765faaf1e")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_QFP.3dshapes/PQFP-44_10x10mm_P0.8mm.wrl"
+		(model "${KIPRJMOD}/packages3D/PQFP-44_10x10mm_P0.8mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6470,7 +6470,7 @@
 			(pintype "passive")
 			(uuid "10ae4ee2-03b3-405f-a1be-f6cd3bc97132")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6734,7 +6734,7 @@
 			(pintype "passive")
 			(uuid "ca99ccd7-503a-4f38-9b7d-1e42f74ce3b8")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7277,7 +7277,7 @@
 			(pintype "bidirectional+no_connect")
 			(uuid "d7883dc1-b08e-4bd7-9592-bb41e55b67d3")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-28_W7.62mm.wrl"
+		(model "${KIPRJMOD}/packages3D/DIP-28_W7.62mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7541,7 +7541,7 @@
 			(pintype "passive")
 			(uuid "c3c38d4f-47ae-4a9b-9d70-6f2d0c3cef85")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7805,7 +7805,7 @@
 			(pintype "passive")
 			(uuid "5d168199-2122-4f04-9534-c708b8b814a4")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8223,7 +8223,7 @@
 			(pintype "input")
 			(uuid "81734f10-d0a6-47d8-aea9-609a592dfab2")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.wrl"
+		(model "${KIPRJMOD}/packages3D/SOIC-8_3.9x4.9mm_P1.27mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8487,7 +8487,7 @@
 			(pintype "passive")
 			(uuid "8d2f0b98-6238-47cf-9ed8-8711037bf064")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8719,7 +8719,7 @@
 			(pintype "passive")
 			(uuid "c3e1ce45-6f85-47f7-9ab5-812920d2270d")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Inline.wrl"
+		(model "${KIPRJMOD}/packages3D/TO-92_Inline.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8983,7 +8983,7 @@
 			(pintype "passive")
 			(uuid "9d53ed29-c2ee-4eae-9101-e77de0c081ab")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9227,7 +9227,7 @@
 			(pintype "passive")
 			(uuid "7b4207fa-4aef-4652-9539-29a34d0ba5ae")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9491,7 +9491,7 @@
 			(pintype "passive")
 			(uuid "df7f55ad-509a-465e-8c20-c596c6154aa5")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10476,7 +10476,7 @@
 			(pintype "passive")
 			(uuid "260827f9-0e08-427c-9f46-98a6ed6592ef")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_QFP.3dshapes/PQFP-44_10x10mm_P0.8mm.wrl"
+		(model "${KIPRJMOD}/packages3D/PQFP-44_10x10mm_P0.8mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10799,7 +10799,7 @@
 			(pintype "open_collector")
 			(uuid "5800d343-db7d-46ba-856c-63734440f8ca")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl"
+		(model "${KIPRJMOD}/packages3D/DIP-8_W7.62mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11063,7 +11063,7 @@
 			(pintype "passive")
 			(uuid "a03aa182-cabd-4b93-a806-4e5332a2cd04")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11307,7 +11307,7 @@
 			(pintype "passive")
 			(uuid "493aba3e-180f-4751-9c98-cc983d388197")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11663,7 +11663,7 @@
 			(pintype "passive")
 			(uuid "8b1d625f-326d-401b-8502-f4b685de8d4f")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11927,7 +11927,7 @@
 			(pintype "passive")
 			(uuid "436908a2-5501-4610-b7ab-49da2badd672")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12171,7 +12171,7 @@
 			(pintype "passive")
 			(uuid "f972cc8f-8725-44d9-8fb4-69eae2d32973")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12435,7 +12435,7 @@
 			(pintype "passive")
 			(uuid "03d652b3-db5a-447c-8cb6-30e3756bc32b")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13125,7 +13125,7 @@
 			(pintype "passive")
 			(uuid "fb9106da-9834-4ffd-b01b-bc5751a48d55")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13490,7 +13490,7 @@
 			(pintype "passive")
 			(uuid "63e69ecd-8a2e-4dc1-9755-99b7c263cb68")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-3_Horizontal_TabDown.wrl"
+		(model "${KIPRJMOD}/packages3D/TO-220-3_Horizontal_TabDown.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13754,7 +13754,7 @@
 			(pintype "passive")
 			(uuid "abd9a4f8-065f-4a60-99ae-f8cd5917794e")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14018,7 +14018,7 @@
 			(pintype "passive")
 			(uuid "f0e258de-2f2b-465e-a9d2-8a8f93c07572")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15745,7 +15745,7 @@
 			(pintype "passive")
 			(uuid "183ee851-f038-45e7-950d-2a229d5f54c3")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D8.0mm_P3.50mm.wrl"
+		(model "${KIPRJMOD}/packages3D/CP_Radial_D8.0mm_P3.50mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16009,7 +16009,7 @@
 			(pintype "passive")
 			(uuid "0a06efc9-19aa-49c1-8e84-9c5f346a9c31")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16273,7 +16273,7 @@
 			(pintype "passive")
 			(uuid "ff6e1574-bea7-48c7-97fa-f7994d0d2c03")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16740,7 +16740,7 @@
 			(pintype "power_out")
 			(uuid "221856e1-03b0-4c99-94aa-327bb8345957")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-3_Horizontal_TabDown.wrl"
+		(model "${KIPRJMOD}/packages3D/TO-220-3_Horizontal_TabDown.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17643,7 +17643,7 @@
 			(pintype "passive")
 			(uuid "25eae4c7-c837-4cc3-a0ab-973fe631060c")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18017,7 +18017,7 @@
 			(pintype "passive")
 			(uuid "996c1a2d-159c-4a28-b1f3-bb0366301eaf")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/D_DO-41_SOD81_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18514,7 +18514,7 @@
 			(pintype "passive")
 			(uuid "d0c8fa62-0fe8-4c59-8cfe-f032284237b1")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18533,7 +18533,7 @@
 		(descr "PEC11H-4020F-S0016-1")
 		(tags "Integrated Circuit")
 		(property "Reference" "SW1"
-			(at -9.5 -14.9 180)
+			(at -9.5 -14.9 360)
 			(layer "F.SilkS")
 			(uuid "84f26085-2e82-463b-961d-338594e3a84a")
 			(effects
@@ -18870,7 +18870,7 @@
 			(pintype "passive")
 			(uuid "4665ae95-643d-4162-abb6-3643efea1e25")
 		)
-		(model "C:\\Users\\pborman\\surfdrive\\Documents\\KiCad\\SamacSys\\SamacSys_Parts.3dshapes\\PEC11H-4020F-S0016.stp"
+		(model "${KIPRJMOD}/packages3D/PEC11H-4020F-S0016.stp"
 			(offset
 				(xyz 0 7.499999887 0.1699999992)
 			)
@@ -19249,7 +19249,7 @@
 			(pintype "passive")
 			(uuid "4ee9d8e7-9ee9-40d2-8011-ee06e457f3f3")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19746,7 +19746,7 @@
 			(pintype "passive")
 			(uuid "0fb42d2e-bf28-4064-9a7b-58cc5aa45ddb")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19990,7 +19990,7 @@
 			(pintype "passive")
 			(uuid "4bf062c9-0a9c-4d31-adc3-5d6c49a9fa81")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20234,7 +20234,7 @@
 			(pintype "passive")
 			(uuid "55093063-b5dc-4d30-a3bf-0e429d38c632")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20478,7 +20478,7 @@
 			(pintype "passive")
 			(uuid "5880f49c-3cb4-4a58-bc66-141c8a8c2da3")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20742,7 +20742,7 @@
 			(pintype "passive")
 			(uuid "7bfa0ac5-6ca3-4749-b8cb-b37deef2fa8f")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21116,7 +21116,7 @@
 			(pintype "passive")
 			(uuid "ced1d803-ecad-46e8-90e9-ee511b631120")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21380,7 +21380,7 @@
 			(pintype "passive")
 			(uuid "cfa4184f-2506-42bd-a989-dd846090227d")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21624,7 +21624,7 @@
 			(pintype "passive")
 			(uuid "56a90512-0b84-412b-a66d-633d73615b9c")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21888,7 +21888,7 @@
 			(pintype "passive")
 			(uuid "93d17e42-0dcd-4b72-9936-83cc2ec7672a")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22132,7 +22132,7 @@
 			(pintype "passive")
 			(uuid "b35391d1-849c-4de2-af0f-e69d21293c4b")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
+		(model "${KIPRJMOD}/packages3D/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22631,7 +22631,7 @@
 			(pintype "passive")
 			(uuid "f378e111-cb5a-4d0e-b6ca-a74107fb4399")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
