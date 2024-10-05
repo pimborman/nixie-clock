@@ -2,13 +2,11 @@ name: "automatic kibot generation and deployment"
 
 on:
   push:
-    paths:
-    - '**.sch'
-    - '**.kicad_pcb'
+    branches:
+      - main
   pull_request:
-    paths:
-      - '**.sch'
-      - '**.kicad_pcb'
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
