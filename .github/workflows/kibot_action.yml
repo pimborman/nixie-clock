@@ -33,6 +33,7 @@ jobs:
         schema: 'nixie.kicad_sch'
         # optional - PCB design file
         board: 'nixie.kicad_pcb'
+        install3D: YES
     
     - name: upload results
       if: ${{ always() }}
