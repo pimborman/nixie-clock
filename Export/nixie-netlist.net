@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/github/workspace/nixie.kicad_sch")
-    (date "2024-10-05T23:27:18+0000")
+    (date "2024-10-06T08:37:11+0000")
     (tool "Eeschema 8.0.4+1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block

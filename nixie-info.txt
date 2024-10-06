@@ -1,7 +1,7 @@
 KiBot installation checker
 
 Core:
-Linux: 6.8.0.1014 (Linux 290cfa300a7d 6.8.0-1014-azure #16~22.04.1-Ubuntu SMP Thu Aug 15 21:31:41 UTC 2024 x86_64 GNU/Linux)
+Linux: 6.8.0.1014 (Linux db0c75115d2e 6.8.0-1014-azure #16~22.04.1-Ubuntu SMP Thu Aug 15 21:31:41 UTC 2024 x86_64 GNU/Linux)
   /usr/bin/uname
 Python: 3.11.2 (main, Aug 26 2024, 07:20:54) [GCC 12.2.0]
   /usr/lib/python3.11/os.py
