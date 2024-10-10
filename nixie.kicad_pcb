@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "Nixie Clock Project")
-		(date "2024-10-03")
-		(rev "1.0")
+		(date "${DATE}")
+		(rev "${VERSION}")
 		(company "Pim Borman")
 	)
 	(layers
@@ -18533,7 +18533,7 @@
 		(descr "PEC11H-4020F-S0016-1")
 		(tags "Integrated Circuit")
 		(property "Reference" "SW1"
-			(at -9.5 -14.9 360)
+			(at -9.5 -14.9 0)
 			(layer "F.SilkS")
 			(uuid "84f26085-2e82-463b-961d-338594e3a84a")
 			(effects
@@ -22805,7 +22805,7 @@
 		(layer "Edge.Cuts")
 		(uuid "dbbcb5b2-dec4-46fc-8f93-234b9e09dd37")
 	)
-	(gr_text "Nixie Clock | Pim Borman\nversion 1.0\nhttps://github.com/pimborman/nixie-clock\n\n"
+	(gr_text "Nixie Clock by Pim Borman\nVersion ${VERSION}\nDate ${DATE}\nhttps://github.com/pimborman/nixie-clock\n\n"
 		(at 252 69.2 0)
 		(layer "B.SilkS")
 		(uuid "35d184a8-c4e8-4b34-9e4c-09440d83f37b")

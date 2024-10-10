@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Nixie Clock Project")
-		(date "2024-10-03")
-		(rev "1.0")
+		(date "${DATE}")
+		(rev "${VERSION}")
 		(company "Pim Borman")
 	)
 	(lib_symbols

@@ -717,5 +717,8 @@
       "controller"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "DATE": "2024-10-08",
+    "VERSION": "Git hash: <41afca9>"
+  }
 }
