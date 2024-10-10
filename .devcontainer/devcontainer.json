@@ -1,0 +1,16 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/universal
+{
+	"name": "KiCad/KiBot",
+	"context": "..",
+	"dockerFile": "Dockerfile",
+	"customizations": {
+		"vscode": {
+			"settings": {
+			},
+			"extensions": [
+				"vsls-contrib.codetour"
+			]
+		}
+	}
+}

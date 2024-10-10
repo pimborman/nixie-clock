@@ -1,0 +1,50 @@
+# based on the quick-start. only schematic outputs are enabled
+
+kibot:
+  version: 1
+
+preflight:
+  erc:
+    format: CSV
+  set_text_variables:
+    - name: 'VERSION'
+      command: 'git log -1 --format="%h" "$KIBOT_PCB_NAME"'
+      before: 'Git hash: <'
+      after: '>'
+  set_text_variables:
+    - name: 'DATE'
+      command: 'echo $(date +"%Y-%m-%d")'
+      
+outputs:
+- name: generic_bom_csv
+  comment: Generic Bill of Materials in CSV format
+  type: bom
+  dir: .
+  options:
+    format: CSV
+    count_smd_tht: true
+- name: generic_bom_xlsx
+  comment: Generic Bill of Materials in XLSX format
+  type: bom
+  dir: .
+  options:
+    format: XLSX
+    count_smd_tht: true
+- name: basic_diff_sch
+  comment: Schematic diff between the last two changes
+  type: diff
+  dir: .
+  options:
+    old: KIBOT_LAST-1
+    old_type: git
+    new: HEAD
+    new_type: git
+    pcb: false
+- name: classic_netlist
+  comment: classic netlist
+  type: netlist
+  dir: .
+- name: basic_pdf_sch_print
+  comment: Schematic in PDF format
+  type: pdf_sch_print
+  dir: .

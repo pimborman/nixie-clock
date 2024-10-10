@@ -1,0 +1,38 @@
+name: "automatic kibot generation on schematic changes"
+
+on:
+  push:
+    branches:
+      - main
+    paths: 
+      - '**/*.kicad_sch'
+  pull_request:
+    branches:
+      - main
+    paths: 
+      - '**/*.kicad_sch'
+  workflow_dispatch:
+
+jobs:
+  cicd:
+    name: "KiBot Schematic (action)"
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: checkout git repo
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: '0'
+    
+    - name: run kibot
+      uses: INTI-CMNB/KiBot@v2_k8
+      with:
+        config: sch_only.kibot.yaml
+        dir: output
+        schema: 'nixie.kicad_sch'
+        
+    - name: upload results
+      uses: actions/upload-artifact@v4
+      with:
+        name: automatic_output
+        path: output
