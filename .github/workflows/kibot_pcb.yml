@@ -1,21 +1,21 @@
-name: "automatic kibot generation on schematic changes"
+name: "automatic kibot generation on pcb changes"
 
 on:
   push:
     branches:
       - main
     paths: 
-      - '**/*.kicad_sch'
+      - '**/*.kicad_pcb'
   pull_request:
     branches:
       - main
     paths: 
-      - '**/*.kicad_sch'
+      - '**/*.kicad_pcb'
   workflow_dispatch:
 
 jobs:
   cicd:
-    name: "KiBot Schematic (action)"
+    name: "KiBot PCB (action)"
     runs-on: ubuntu-latest
     
     steps:
@@ -27,12 +27,13 @@ jobs:
     - name: run kibot
       uses: INTI-CMNB/KiBot@v2_k8
       with:
-        config: .kibot/schematic_only.kibot.yaml
+        config: .kibot/pcb_only.kibot.yaml
         dir: output
-        schema: 'nixie.kicad_sch'
+        board: 'nixie.kicad_pcb'
+        install3D: YES
         
     - name: upload results
       uses: actions/upload-artifact@v4
       with:
-        name: schematic
+        name: pcb
         path: output

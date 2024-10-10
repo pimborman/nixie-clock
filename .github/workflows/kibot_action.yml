@@ -21,7 +21,7 @@ jobs:
       uses: INTI-CMNB/KiBot@v2_k8
       with:
         # Required - kibot config file
-        config: nixie.kibot.yaml
+        config: .kibot/nixie.kibot.yaml
         # optional - prefix to output defined in config
         dir: output
         # optional - schematic file
