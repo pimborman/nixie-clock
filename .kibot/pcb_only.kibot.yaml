@@ -24,13 +24,10 @@ preflight:
   drc:
     format: CSV
   set_text_variables:
-    - name: 'VERSION'
-      command: 'git log -1 --format="%h" "$KIBOT_PCB_NAME"'
-      before: 'Git hash: <'
-      after: '>'
-  set_text_variables:
     - name: 'DATE'
       command: 'echo $(date +"%Y-%m-%d")'
+    - name: 'VERSION'
+      command: 'echo $(git describe --tags)'
   
 outputs:
 - name: basic_diff_pcb

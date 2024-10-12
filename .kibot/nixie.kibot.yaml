@@ -39,6 +39,12 @@ preflight:
   erc:
     dont_stop: true
     format: HTML,RPT,JSON,CSV
+  set_text_variables:
+    - name: 'DATE'
+      command: 'echo $(date +"%Y-%m-%d")'
+    - name: 'VERSION'
+      command: 'echo $(git describe --tags)'
+
 
 outputs:
 - name: basic_blender_export
