@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "8.0.4+1"
     },
-    "CreationDate": "2024-10-13T09:49:30+00:00"
+    "CreationDate": "2024-10-13T16:33:14+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "nixie",
       "GUID": "6e697869-652e-46b6-9963-61645f706362",
-      "Revision": "v1.0"
+      "Revision": "v1.1"
     },
     "Size": {
       "X": 189.2,

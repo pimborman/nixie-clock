@@ -1,4 +1,5 @@
+_local_|2024-10-13|root|Local changes not committed|False|True
+122eb80|2024-10-13|Pim Borman|3D fix|False|True
+7a334a8|2024-10-13|Pim Borman|added 3D model, added missing component values, improved interactive bom|True|True
 6b18e0c|2024-10-10|Pim Borman|automatic date/version control|True|True
 41afca9|2024-10-05|Pim Borman|remapped 3d models to in-project folder|False|True
-e3392ed|2024-10-03|Pim Borman|added a few stitching HV vias|False|True
-4bd9d26|2024-10-03|Pim Borman|thicker smps traces|True|True

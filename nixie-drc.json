@@ -1,7 +1,7 @@
 {
     "$schema": "https://schemas.kicad.org/drc.v1.json",
     "coordinate_units": "mm",
-    "date": "2024-10-13T09:44:41+0000",
+    "date": "2024-10-13T16:28:22+0000",
     "kicad_version": "8.0.4",
     "schematic_parity": [],
     "source": "nixie.kicad_pcb",

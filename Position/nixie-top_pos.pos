@@ -1,4 +1,4 @@
-### Module positions - created on Sun 13 Oct 2024 09:51:58  ###
+### Module positions - created on Sun 13 Oct 2024 16:35:43  ###
 ### Printed by KiBot
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -27,9 +27,9 @@ L1      100u                   L_Radial_D8.7mm_P5.00mm_Fastron_07HCP            
 Q1      2N3906                 TO-92_Inline                                                    86.1200    -86.0000    -90.0000    top   
 Q2      IRF644                 TO-220-3_Horizontal_TabDown                                     97.1600    -74.7700    180.0000    top   
 R1      R                      R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                82.6200    -90.0000    180.0000    top   
-R2      R                      R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                112.1200   -74.1200    90.0000     top   
-R3      R                      R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                112.1200   -84.8100    90.0000     top   
-R4      R                      R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                116.1200   -66.5000    -90.0000    top   
+R2      800k                   R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                112.1200   -74.1200    90.0000     top   
+R3      4.7k                   R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                112.1200   -84.8100    90.0000     top   
+R4      1                      R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                116.1200   -66.5000    -90.0000    top   
 R5      15k                    R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                95.8000    -105.8100   90.0000     top   
 R6      15k                    R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                165.0000   -113.5000   90.0000     top   
 R7      15k                    R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal                235.0000   -105.8100   90.0000     top   

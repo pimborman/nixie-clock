@@ -15,18 +15,20 @@ Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datashee
 14		IN-3	N7 N8 N9 N10	IN-3	nixies-us-IN-3	4	 										
 15	-0.2A Ic, -40V Vce, Small Signal PNP Transistor, TO-92	2N3906	Q1	2N3906	TO-92_Inline	1	 	https://www.onsemi.com/pub/Collateral/2N3906-D.PDF									
 16	N-MOSFET transistor, gate/drain/source	Q_NMOS_GDS	Q2	IRF644	TO-220-3_Horizontal_TabDown	1	 	https://www.vishay.com/docs/91039/91039.pdf									
-17	Resistor	R	R1 R2 R3 R4	R	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	4	 	~									
-18	Resistor	R	R15 R17 R22	4.7k	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	3	 	~									
-19	Resistor	R	R16 R18 R19 R20 R21 R23	10k	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	6	 	~									
-20	Resistor	R	R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	15k	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	10	 	~									
-21	Trim-potentiometer	R_Potentiometer_Trim	RV1	1k	Potentiometer_Bourns_3306P_Vertical	1	 	~									
-22	Rotary encoder, dual channel, incremental quadrate outputs, with switch	RotaryEncoder_Switch	SW1	RotaryEncoder_Switch	PEC11H4020FS0016	1	 	~									
-23	CMOS Hex Voltage-Level Shifter for TTL-to-CMOS or CMOS-to-CMOS, DIP-16/SOIC-16/TSSOP-16	4504	U1	4504	DIP-16_W7.62mm	1	 	http://www.ti.com/lit/ds/symlink/cd4504b.pdf									
-24	20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, DIP-28	ATmega328P-P	U6	ATmega328P-P	DIP-28_W7.62mm	1	 	http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf									
-25	±5ppm, I2C Real-Time Clock SOIC-8	DS3231MZ	U7	DS3231MZ	SOIC-8_3.9x4.9mm_P1.27mm	1	 	http://datasheets.maximintegrated.com/en/ds/DS3231M.pdf									
-26	Serial to Parallel Logic Converters 220V 32Ch Open D Out	HV5222PG-G	U3 U5	HV5222PG-G	PQFP-44_10x10mm_P0.8mm	2	 	http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en570722			2.35	Microchip	HV5222PG-G	689-HV5222PG-G	https://www.mouser.co.uk/ProductDetail/Microchip-Technology/HV5222PG-G?qs=jjdktuRV%2Fgh6FkXzyQ9ehg%3D%3D	HV5222PG-G	https://www.arrow.com/en/products/hv5222pg-g/microchip-technology
-27	Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220	LM7805_TO220	U4	LM7805_TO220	TO-220-3_Horizontal_TabDown	1	 	https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF									
-28	1.5A, step-up/down/inverting switching regulator, 3-40V Vin, 100kHz, DIP-8	MC34063AP	U2	MC34063AP	DIP-8_W7.62mm	1	 	http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF									
+17	Resistor	R	R1	R	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	1	 	~									
+18	Resistor	R	R4	1	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	1	 	~									
+19	Resistor	R	R3 R15 R17 R22	4.7k	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	4	 	~									
+20	Resistor	R	R16 R18 R19 R20 R21 R23	10k	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	6	 	~									
+21	Resistor	R	R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	15k	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	10	 	~									
+22	Resistor	R	R2	800k	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	1	 	~									
+23	Trim-potentiometer	R_Potentiometer_Trim	RV1	1k	Potentiometer_Bourns_3306P_Vertical	1	 	~									
+24	Rotary encoder, dual channel, incremental quadrate outputs, with switch	RotaryEncoder_Switch	SW1	RotaryEncoder_Switch	PEC11H4020FS0016	1	 	~									
+25	CMOS Hex Voltage-Level Shifter for TTL-to-CMOS or CMOS-to-CMOS, DIP-16/SOIC-16/TSSOP-16	4504	U1	4504	DIP-16_W7.62mm	1	 	http://www.ti.com/lit/ds/symlink/cd4504b.pdf									
+26	20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, DIP-28	ATmega328P-P	U6	ATmega328P-P	DIP-28_W7.62mm	1	 	http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf									
+27	±5ppm, I2C Real-Time Clock SOIC-8	DS3231MZ	U7	DS3231MZ	SOIC-8_3.9x4.9mm_P1.27mm	1	 	http://datasheets.maximintegrated.com/en/ds/DS3231M.pdf									
+28	Serial to Parallel Logic Converters 220V 32Ch Open D Out	HV5222PG-G	U3 U5	HV5222PG-G	PQFP-44_10x10mm_P0.8mm	2	 	http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en570722			2.35	Microchip	HV5222PG-G	689-HV5222PG-G	https://www.mouser.co.uk/ProductDetail/Microchip-Technology/HV5222PG-G?qs=jjdktuRV%2Fgh6FkXzyQ9ehg%3D%3D	HV5222PG-G	https://www.arrow.com/en/products/hv5222pg-g/microchip-technology
+29	Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220	LM7805_TO220	U4	LM7805_TO220	TO-220-3_Horizontal_TabDown	1	 	https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF									
+30	1.5A, step-up/down/inverting switching regulator, 3-40V Vin, 100kHz, DIP-8	MC34063AP	U2	MC34063AP	DIP-8_W7.62mm	1	 	http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF									
 
 
 
@@ -35,11 +37,11 @@ Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datashee
 Project info:
 Schematic:	nixie
 Variant:	default
-Revision:	v1.0
+Revision:	v1.1
 Date:	2024-10-13
 KiCad Version:	8.0.4+1
 Statistics:
-Component Groups:	28
+Component Groups:	30
 Component Count:	66 (3 SMD/ 63 THT)
 Fitted Components:	66 (3 SMD/ 63 THT)
 Number of PCBs:	1
