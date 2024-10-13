@@ -148,6 +148,8 @@
 			(outputdirectory "")
 		)
 	)
+	(property "DATE" "2024-10-13")
+	(property "VERSION" "v1.0")
 	(net 0 "")
 	(net 1 "GND")
 	(net 2 "Net-(BT1-+)")
@@ -710,11 +712,11 @@
 		(uuid "150c432a-97b7-46bf-a999-1c4e12ada650")
 		(at 108.12 85 90)
 		(descr "Potentiometer, vertical, Bourns 3386P, https://www.bourns.com/pdfs/3386.pdf")
-		(tags "Potentiometer vertical Bourns 3386P")
+		(tags "Potentiometer vertical Bourns 3306P")
 		(property "Reference" "RV1"
 			(at -4.8 -2.32 180)
 			(layer "F.SilkS")
-			(uuid "4f66ce5e-ef15-4941-a168-31ffef1f13f5")
+			(uuid "e6e8aaf5-9381-4461-8721-48cc88c55e63")
 			(effects
 				(font
 					(size 1 1)
@@ -725,7 +727,7 @@
 		(property "Value" "1k"
 			(at 3.4 -0.52 180)
 			(layer "F.SilkS")
-			(uuid "1b8d3485-8fdc-46fa-950c-cf0cc340a137")
+			(uuid "9236cb90-aeb6-4bd8-8965-8af32375ed85")
 			(effects
 				(font
 					(size 1 1)
@@ -738,7 +740,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d658ff04-2c9f-4b45-8871-e8f70d409074")
+			(uuid "09299c68-97f7-45bf-82fd-a75135283e14")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -751,7 +753,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fdfbf2c2-fda3-48cc-8be6-82f761045505")
+			(uuid "a126a2f6-8a2c-473a-93fc-437f93bf4376")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -764,7 +766,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4b100aa7-5b05-44b0-9a72-56604f6ed2d1")
+			(uuid "13d0f013-8b6e-4bf7-8e89-ec6878b2bcdf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -785,7 +787,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c41e56c3-1abb-42a7-842e-4d9934a9a7af")
+			(uuid "baea5761-4e26-4cfd-962d-3fc10d6ffbad")
 		)
 		(fp_line
 			(start -3.6 -6.15)
@@ -795,7 +797,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e465246a-2091-40c7-a389-55d2ebabb907")
+			(uuid "74d2ab36-a254-4814-8a58-d0c3547b6915")
 		)
 		(fp_line
 			(start -3.6 -6.15)
@@ -805,7 +807,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "159ba79b-0579-43a2-9fa8-8ad79722f79a")
+			(uuid "587eb692-cac2-467b-a8a7-4e9c3d87bb46")
 		)
 		(fp_line
 			(start -3.6 1.15)
@@ -815,7 +817,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "598ec62f-df17-4c2e-b519-7061e38f918f")
+			(uuid "850f8312-0312-4549-9cd0-590d8a6267d3")
 		)
 		(fp_line
 			(start 5.05 -6.4)
@@ -825,7 +827,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "3a782b05-2cb8-450a-b235-bc665f62a295")
+			(uuid "4af6f216-e227-4778-ad55-af672b5ac568")
 		)
 		(fp_line
 			(start -3.85 -6.4)
@@ -835,7 +837,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "97c6503f-ed10-4c88-9310-a1f9a9264ae8")
+			(uuid "9b39a727-7cd5-42d1-81a9-d48a4a901160")
 		)
 		(fp_line
 			(start 5.05 1.4)
@@ -845,7 +847,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2eb19a6f-c4f0-4446-bffb-064aa1233fbb")
+			(uuid "a3598972-f690-41ef-acfd-27f73f9f4f23")
 		)
 		(fp_line
 			(start -3.85 1.4)
@@ -855,7 +857,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c9203625-c206-419f-a6eb-7ea62be9ec64")
+			(uuid "ed9a23c3-ad11-43fc-85e3-2d0d3b386448")
 		)
 		(fp_line
 			(start 4.65 -6)
@@ -865,7 +867,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d0b1fca3-3a8a-4971-8718-f8c924f66490")
+			(uuid "d0158e5f-a56e-413c-a669-941fff931527")
 		)
 		(fp_line
 			(start -3.45 -6)
@@ -875,7 +877,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e52d1578-5003-41c7-9ba2-7056aaa21573")
+			(uuid "62b389cf-8465-4554-9fe0-1db84af8f66f")
 		)
 		(fp_line
 			(start -0.891 -0.98)
@@ -885,7 +887,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "9f593908-274a-4177-97c0-58a22a7f041e")
+			(uuid "552f7050-4deb-4f37-b1d8-e528bffb7a3f")
 		)
 		(fp_line
 			(start -0.891 -0.98)
@@ -895,7 +897,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e71de775-d486-4b64-8f60-92916d12e8ae")
+			(uuid "f0b182fc-dd16-48a3-ab62-00d30d9ec2f0")
 		)
 		(fp_line
 			(start 4.65 1)
@@ -905,7 +907,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0c1a2276-f36b-4b0e-a3f9-dde27ff91d9a")
+			(uuid "aa8e8479-17fe-4d7d-b978-bfb92800129d")
 		)
 		(fp_line
 			(start -3.45 1)
@@ -915,7 +917,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "383aeeae-3730-4f16-8fbc-ab1c664756e1")
+			(uuid "53b77a80-6458-4016-914d-bcd0b4d2bdbe")
 		)
 		(fp_circle
 			(center -0.891 -2.54)
@@ -926,7 +928,18 @@
 			)
 			(fill none)
 			(layer "F.Fab")
-			(uuid "6338ef8d-c62e-4b74-8164-f215410d7dff")
+			(uuid "59171950-1650-4b02-bd0b-f33eeb19cfaf")
+		)
+		(fp_text user "${REFERENCE}"
+			(at -4.95 -3.05 180)
+			(layer "F.Fab")
+			(uuid "e14ea717-d659-4357-a90e-e7a4c1205cd8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
 		)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -937,7 +950,7 @@
 			(net 101 "Net-(R3-Pad1)")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "afcc313a-afbe-41ed-88f2-9d8dac0df7b6")
+			(uuid "cb0bac27-5ddf-46b8-b4a2-6e6637529075")
 		)
 		(pad "2" thru_hole circle
 			(at 2.5 -2.5 90)
@@ -948,7 +961,7 @@
 			(net 1 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "2dcd997a-05d4-490d-b009-89fbee7c6394")
+			(uuid "6cc81b7d-91dc-4e44-af47-c2495d288697")
 		)
 		(pad "3" thru_hole circle
 			(at 0 -5 90)
@@ -959,17 +972,17 @@
 			(net 1 "GND")
 			(pinfunction "3")
 			(pintype "passive")
-			(uuid "bdaa93d2-7e2b-4bd1-af99-5655399c616e")
+			(uuid "fb7f9db4-dfb7-443e-9de6-ac611e7909fe")
 		)
-		(model "${KIPRJMOD}/packages3D/Potentiometer_Bourns_3386P_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/3306P-1-103.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 1.25 2.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 90)
 			)
 		)
 	)
@@ -990,7 +1003,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1"
 			(at 3.9 -0.08 90)
 			(layer "F.SilkS")
 			(uuid "d31a04ce-7c26-4735-8ba9-9ee84e6cda06")
@@ -2556,7 +2569,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "800k"
 			(at 3.92 0.08 90)
 			(layer "F.SilkS")
 			(uuid "acd28409-6080-446e-94d9-bef408aba793")
@@ -11692,7 +11705,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.7k"
 			(at 3.81 0.08 90)
 			(layer "F.SilkS")
 			(uuid "4ba6ef39-9f5a-4102-8ef1-c323d3143adf")
