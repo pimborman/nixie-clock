@@ -253,7 +253,7 @@
 		(remove_unused_layers no)
 		(uuid "2e0307c4-04ca-45d6-b520-2f07814a3963")
 	)
-	(model "C:/Users/pborman/surfdrive/Documents/KiCad/8.0/3dmodels/3306P-1-103.STEP"
+	(model "C:/Users/pborman/surfdrive/Documents/KiCad/8.0/3dmodels/3306P-1-103.step"
 		(offset
 			(xyz 1.25 2.5 0)
 		)
