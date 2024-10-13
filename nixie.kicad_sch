@@ -10550,7 +10550,7 @@
 	)
 	(rectangle
 		(start 12.7 14.478)
-		(end 132.08 90.678)
+		(end 132.08 93.218)
 		(stroke
 			(width 0.2)
 			(type dash)
@@ -14495,7 +14495,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.7k"
 			(at 101.6 74.9299 0)
 			(effects
 				(font
@@ -17068,7 +17068,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "800k"
 			(at 101.6 64.7699 0)
 			(effects
 				(font
@@ -18181,7 +18181,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1"
 			(at 111.76 50.7999 0)
 			(effects
 				(font

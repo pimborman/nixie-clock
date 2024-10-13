@@ -44,7 +44,7 @@ preflight:
       command: 'echo $(date +"%Y-%m-%d")'
     - name: 'VERSION'
       command: 'echo $(git describe --tags)'
-
+  update_xml: true
 
 outputs:
 - name: basic_blender_export
@@ -419,6 +419,8 @@ outputs:
   comment: Interactive HTML BoM
   type: ibom
   dir: Assembly
+  options:
+    extra_fields: 'Description'
 - name: basic_info
   comment: Information about the run
   type: info
