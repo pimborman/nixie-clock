@@ -1,0 +1,46 @@
+Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datasheet	Sim.Device	Sim.Pins	Height	Manufacturer_Name	Manufacturer_Part_Number	Mouser Part Number	Mouser Price/Stock	Arrow Part Number	Arrow Price/Stock
+1	Single-cell battery	Battery_Cell	BT1	Battery_Cell	BH-80B-1	1	 	~									
+2	Unpolarized capacitor	C	C2	470p	C_Disc_D3.8mm_W2.6mm_P2.50mm	1	 	~									
+3	Unpolarized capacitor	C	C12 C13 C15	0.01u	C_Disc_D4.7mm_W2.5mm_P5.00mm	3	 	~									
+4	Unpolarized capacitor	C	C1 C3 C4 C6 C7 C8 C10 C11 C14	0.1u	C_Disc_D4.7mm_W2.5mm_P5.00mm	9	 	~									
+5	Polarized capacitor	C_Polarized	C9	4.7u	CP_Radial_D8.0mm_P3.50mm	1	 	~									
+6	Polarized capacitor	C_Polarized	C5	100u	CP_Radial_D6.3mm_P2.50mm	1	 	~									
+7	100V 0.3A Small Signal Fast Switching Diode, DO-35	1N914	D1	1N914	D_DO-35_SOD27_P7.62mm_Horizontal	1	 	http://www.vishay.com/docs/85622/1n914.pdf	D	1=K 2=A							
+8	Bidirectional transient-voltage-suppression diode	D_TVS	D3	220	D_DO-15_P10.16mm_Horizontal	1	 	https://nl.mouser.com/datasheet/2/389/p6ke12ca-3078729.pdf									
+9	Diode	D	D2	UF4007	D_DO-41_SOD81_P7.62mm_Horizontal	1	 	~	D	1=K 2=A							
+10	DC Barrel Jack	Barrel_Jack	J1	Barrel_Jack	TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal	1	 	~									
+11	Generic connector, single row, 01x02, script generated	Conn_01x02_Pin	J2	Conn_01x02_Pin	PinHeader_1x02_P2.54mm_Vertical	1	 	~									
+12	Inductor	L	L1	100u	L_Radial_D8.7mm_P5.00mm_Fastron_07HCP	1	 	~									
+13		IN-14	N1 N2 N3 N4 N5 N6	IN-14	nixies-us-IN-14	6	 										
+14		IN-3	N7 N8 N9 N10	IN-3	nixies-us-IN-3	4	 										
+15	-0.2A Ic, -40V Vce, Small Signal PNP Transistor, TO-92	2N3906	Q1	2N3906	TO-92_Inline	1	 	https://www.onsemi.com/pub/Collateral/2N3906-D.PDF									
+16	N-MOSFET transistor, gate/drain/source	Q_NMOS_GDS	Q2	IRF644	TO-220-3_Horizontal_TabDown	1	 	https://www.vishay.com/docs/91039/91039.pdf									
+17	Resistor	R	R1 R2 R3 R4	R	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	4	 	~									
+18	Resistor	R	R15 R17 R22	4.7k	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	3	 	~									
+19	Resistor	R	R16 R18 R19 R20 R21 R23	10k	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	6	 	~									
+20	Resistor	R	R5 R6 R7 R8 R9 R10 R11 R12 R13 R14	15k	R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	10	 	~									
+21	Trim-potentiometer	R_Potentiometer_Trim	RV1	1k	Potentiometer_Bourns_3306P_Vertical	1	 	~									
+22	Rotary encoder, dual channel, incremental quadrate outputs, with switch	RotaryEncoder_Switch	SW1	RotaryEncoder_Switch	PEC11H4020FS0016	1	 	~									
+23	CMOS Hex Voltage-Level Shifter for TTL-to-CMOS or CMOS-to-CMOS, DIP-16/SOIC-16/TSSOP-16	4504	U1	4504	DIP-16_W7.62mm	1	 	http://www.ti.com/lit/ds/symlink/cd4504b.pdf									
+24	20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, DIP-28	ATmega328P-P	U6	ATmega328P-P	DIP-28_W7.62mm	1	 	http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf									
+25	±5ppm, I2C Real-Time Clock SOIC-8	DS3231MZ	U7	DS3231MZ	SOIC-8_3.9x4.9mm_P1.27mm	1	 	http://datasheets.maximintegrated.com/en/ds/DS3231M.pdf									
+26	Serial to Parallel Logic Converters 220V 32Ch Open D Out	HV5222PG-G	U3 U5	HV5222PG-G	PQFP-44_10x10mm_P0.8mm	2	 	http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en570722			2.35	Microchip	HV5222PG-G	689-HV5222PG-G	https://www.mouser.co.uk/ProductDetail/Microchip-Technology/HV5222PG-G?qs=jjdktuRV%2Fgh6FkXzyQ9ehg%3D%3D	HV5222PG-G	https://www.arrow.com/en/products/hv5222pg-g/microchip-technology
+27	Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220	LM7805_TO220	U4	LM7805_TO220	TO-220-3_Horizontal_TabDown	1	 	https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF									
+28	1.5A, step-up/down/inverting switching regulator, 3-40V Vin, 100kHz, DIP-8	MC34063AP	U2	MC34063AP	DIP-8_W7.62mm	1	 	http://www.onsemi.com/pub_link/Collateral/MC34063A-D.PDF									
+
+
+
+
+
+Project info:
+Schematic:	nixie
+Variant:	default
+Revision:	v1.0
+Date:	2024-10-13
+KiCad Version:	8.0.4+1
+Statistics:
+Component Groups:	28
+Component Count:	66 (3 SMD/ 63 THT)
+Fitted Components:	66 (3 SMD/ 63 THT)
+Number of PCBs:	1
+Total Components:	66

@@ -1,0 +1,68 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2024-10-13T09:44:42+0000",
+    "kicad_version": "8.0.4",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/4d215aa3-d175-40c4-bbb4-87e7c6a030b1",
+            "violations": [
+                {
+                    "description": "Pins of type Power output and Open collector are connected",
+                    "items": [
+                        {
+                            "description": "Symbol #FLG01 Pin 1 [Power output, Line]",
+                            "pos": {
+                                "x": 0.2921,
+                                "y": 0.2286
+                            },
+                            "uuid": "a51f7d80-4e73-4898-a488-5f346b2a4078"
+                        },
+                        {
+                            "description": "Symbol U2 Pin 1 [SwC, Open collector, Line]",
+                            "pos": {
+                                "x": 0.5207,
+                                "y": 0.5969
+                            },
+                            "uuid": "6bd934e8-014b-4b07-9ec0-ab46c3320fe7"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "pin_to_pin"
+                },
+                {
+                    "description": "Pins of type Power output and Open collector are connected",
+                    "items": [
+                        {
+                            "description": "Symbol #FLG01 Pin 1 [Power output, Line]",
+                            "pos": {
+                                "x": 0.2921,
+                                "y": 0.2286
+                            },
+                            "uuid": "a51f7d80-4e73-4898-a488-5f346b2a4078"
+                        },
+                        {
+                            "description": "Symbol U2 Pin 8 [DC, Open collector, Line]",
+                            "pos": {
+                                "x": 0.5207,
+                                "y": 0.5715
+                            },
+                            "uuid": "047edbcc-089f-4b11-9915-79a2f154ca7e"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "pin_to_pin"
+                }
+            ],
+            "file_name": "nixie.kicad_sch"
+        },
+        {
+            "path": "/controller/",
+            "uuid_path": "/4d215aa3-d175-40c4-bbb4-87e7c6a030b1/e9b2c7e8-8fee-4f00-9fb9-8c32147df66b",
+            "violations": [],
+            "file_name": "controller.kicad_sch"
+        }
+    ],
+    "source": "nixie.kicad_sch"
+}

@@ -1,0 +1,15 @@
+ERC report (2024-10-13T09:44:42+0000, Encoding UTF8)
+
+***** Sheet /
+[pin_to_pin]: Pins of type Power output and Open collector are connected
+    ; warning
+    @(0.2921 mm, 0.2286 mm): Symbol #FLG01 Pin 1 [Power output, Line]
+    @(0.5207 mm, 0.5969 mm): Symbol U2 Pin 1 [SwC, Open collector, Line]
+
+[pin_to_pin]: Pins of type Power output and Open collector are connected
+    ; warning
+    @(0.2921 mm, 0.2286 mm): Symbol #FLG01 Pin 1 [Power output, Line]
+    @(0.5207 mm, 0.5715 mm): Symbol U2 Pin 8 [DC, Open collector, Line]
+
+***** Sheet /controller/
+ ** ERC messages: 2  Errors 0  Warnings 2

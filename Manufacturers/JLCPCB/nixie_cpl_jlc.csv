@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"U3","HV5222PG-G","PQFP-44_10x10mm_P0.8mm",132.0000,-90.1466,225.0000,top
+"U5","HV5222PG-G","PQFP-44_10x10mm_P0.8mm",202.0000,-90.0000,225.0000,top
+"U7","DS3231MZ","SOIC-8_3.9x4.9mm_P1.27mm",160.0000,-75.4000,270.0000,top

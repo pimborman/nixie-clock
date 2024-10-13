@@ -1,0 +1,7 @@
+### Module positions - created on Sun 13 Oct 2024 09:51:58  ###
+### Printed by KiBot
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref   Val                    Package                                                         PosX       PosY        Rot         Side  
+J1      Barrel_Jack            TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal   131.0000   -67.1050    180.0000    bottom
+## End
