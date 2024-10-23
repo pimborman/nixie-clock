@@ -1912,12 +1912,12 @@
 		(uuid "fd489c57-6ad2-400e-8a5f-bf37549160eb")
 	)
 	(no_connect
-		(at 48.26 57.15)
-		(uuid "0c3443b1-b24b-4025-8aad-3880dcc0ad9c")
+		(at 48.26 34.29)
+		(uuid "07803461-f55d-42b0-847e-f203158746f0")
 	)
 	(no_connect
-		(at 48.26 85.09)
-		(uuid "11b06d27-44b5-4869-b9cd-822bc8812fe3")
+		(at 48.26 57.15)
+		(uuid "0c3443b1-b24b-4025-8aad-3880dcc0ad9c")
 	)
 	(no_connect
 		(at 48.26 77.47)
@@ -1952,12 +1952,12 @@
 		(uuid "5c5a885a-5b27-4145-969d-14ec7c742149")
 	)
 	(no_connect
-		(at 48.26 52.07)
-		(uuid "82c050bd-8ef8-4f57-8fd4-fa39e54620f1")
+		(at 48.26 36.83)
+		(uuid "6ef165e0-7f27-48b3-8119-7a06dd7515be")
 	)
 	(no_connect
-		(at 48.26 67.31)
-		(uuid "a0edb7e4-f430-4957-ac39-0925aec8bafd")
+		(at 48.26 52.07)
+		(uuid "82c050bd-8ef8-4f57-8fd4-fa39e54620f1")
 	)
 	(no_connect
 		(at 48.26 59.69)
@@ -1972,12 +1972,12 @@
 		(uuid "d7b1d652-6eab-467a-9540-be2aa98267eb")
 	)
 	(no_connect
-		(at 17.78 34.29)
-		(uuid "e9227635-b7cd-431d-9825-dbd18f71b862")
+		(at 48.26 39.37)
+		(uuid "d9ef57e0-1878-4741-b52f-7afa98f8f2ea")
 	)
 	(no_connect
-		(at 48.26 69.85)
-		(uuid "f74ccb52-9aec-4177-982f-f2e692f25da7")
+		(at 17.78 34.29)
+		(uuid "e9227635-b7cd-431d-9825-dbd18f71b862")
 	)
 	(wire
 		(pts
@@ -2910,7 +2910,7 @@
 	)
 	(global_label "SDA"
 		(shape bidirectional)
-		(at 48.26 36.83 0)
+		(at 48.26 67.31 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2920,7 +2920,7 @@
 		)
 		(uuid "c1a70900-2443-4804-9446-4974054d04ab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 55.9246 36.83 0)
+			(at 55.9246 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2976,7 +2976,7 @@
 	)
 	(global_label "SCL"
 		(shape output)
-		(at 48.26 34.29 0)
+		(at 48.26 69.85 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2986,7 +2986,7 @@
 		)
 		(uuid "df20b82a-9625-4466-819b-40dab006cb11")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.7528 34.29 0)
+			(at 54.7528 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2998,7 +2998,7 @@
 	)
 	(global_label "ROT_PSH"
 		(shape input)
-		(at 48.26 39.37 0)
+		(at 48.26 85.09 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3008,7 +3008,7 @@
 		)
 		(uuid "ea5e907d-2b8e-4481-a404-b4c7ea3c1f6f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.5909 39.37 0)
+			(at 59.5909 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
